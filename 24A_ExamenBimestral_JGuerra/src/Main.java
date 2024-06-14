@@ -51,6 +51,7 @@ public class Main {
 
         System.out.println("Ticket Generado:");
         System.out.println(ticketGenerado);
+        System.out.println("GUERRA JOSUÉ");
 
         scanner.close();
     }
